@@ -1,2 +1,2 @@
 # Data_Mining
-different data mining algorithm 
+different machine learning algorithm
