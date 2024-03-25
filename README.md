@@ -6,5 +6,5 @@
 
 
 -- -- 
-- graph_list pickle file consists a list of constructed de-bruijn graphs from the DNA sequence data with kmer = 4.
+- graph_list pickle files consists a list of constructed de-bruijn graphs from the DNA sequence data with different kmer values
 - The graphs are later converted to a list of dictionaries with each node being the key as well as features for training the classifiers.
